@@ -139,4 +139,3 @@ class Begotten extends Communication implements IBegotten {
     }
 
 }
-
